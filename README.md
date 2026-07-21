@@ -1,1 +1,1 @@
-o meu readme é mais legal
+Esse repositório faz parte de uma lição de git e github
